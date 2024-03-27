@@ -1,11 +1,11 @@
 Model Information:
-* title:	360 Sphere
-* source:	https://sketchfab.com/3d-models/360-sphere-b9bbaac234ba4c4f8f29b3a98e4c5744
-* author:	Eloi Stree (https://sketchfab.com/JamsCenterStudio)
+* title:	Basic Sphere
+* source:	https://sketchfab.com/3d-models/basic-sphere-e936581d0eeb4d5da34b39fc6f4f55f2
+* author:	Xenoreptire (https://sketchfab.com/xenoreptire__)
 
 Model License:
 * license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
 * requirements:	Author must be credited. Commercial use is allowed.
 
 If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
-This work is based on "360 Sphere" (https://sketchfab.com/3d-models/360-sphere-b9bbaac234ba4c4f8f29b3a98e4c5744) by Eloi Stree (https://sketchfab.com/JamsCenterStudio) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+This work is based on "Basic Sphere" (https://sketchfab.com/3d-models/basic-sphere-e936581d0eeb4d5da34b39fc6f4f55f2) by Xenoreptire (https://sketchfab.com/xenoreptire__) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
